@@ -89,8 +89,7 @@ README.md
 
 ### Clone the repository
 
-git clone https://github.com/yourusername/coastal-safety-ai.git cd
-coastal-safety-ai
+git clone https://github.com/sriharshini2022/Coastal-Safety-AI.git
 
 ### Install dependencies
 
