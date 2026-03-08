@@ -1,0 +1,2 @@
+streamlit ultralytics opencv-python numpy pandas matplotlib Pillow fpdf
+gTTS requests twilio
